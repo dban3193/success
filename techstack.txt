@@ -1,0 +1,20 @@
+My technical stack plan
+1.git
+2.github
+3.jenkins
+4.docker
+5.k8s
+6.openshift
+7.maven
+8.artifcatory
+9.sonarqube
+10.jira
+11.tomcat
+12.weblogic
+service now
+[A13.service now
+14.netscaler
+15.Linux
+16. AWS
+17. Fundamentals of Ansible and Terraform
+18.Concepts of agile, devops, scrum and kanban
